@@ -4,6 +4,8 @@ console.log("dogs")
 console.log("sheep")
 console.log("snakes")
 console.log("cats")
+console.log("pigs")
+console.log("horses")
 
 
 
