@@ -6,6 +6,8 @@ console.log("snakes")
 console.log("cats")
 console.log("pigs")
 console.log("horses")
+console.log("goats")
+console.log("chickens")
 
 
 
