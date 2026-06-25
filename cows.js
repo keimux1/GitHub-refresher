@@ -8,6 +8,7 @@ console.log("pigs")
 console.log("horses")
 console.log("goats")
 console.log("chickens")
-
+console.log("ducks");
+console.log("turkeys")
 
 
